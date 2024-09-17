@@ -38,6 +38,13 @@ c) Allows changes at any point: very flexible                                   
 a)Less Predictable due to evolving nature                                      a) Difficult to accomodate changes
 b)Requires Close Collaboration this is challenging for distributed teams       b)Testing occurs at project later stages
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+**-Agile is best suited for projects that require flexibility, frequent changes, and continuous feedback.
+-EXAMPLES: A)Software Development Startups: time to time communication with customers to pick on the feedback
+          B)Mobile App Development
+          C) Website Development: Time to time gathering of customer feedback on design and functionality**
+-Waterfall is ideal for projects with well-defined, stable requirements and where each phase must be completed before moving to the next. 
+-Examples: A)Construction Projects- Where the blue print is fixed upfront
+           B)
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
